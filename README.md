@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
