@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Simulation
