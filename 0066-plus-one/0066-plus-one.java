@@ -1,0 +1,36 @@
+class Solution {
+    public int[] plusOne(int[] digits) {
+        int carry=0;
+
+        for(int i=digits.length-1;i>=0;i--){
+             if(digits[i]==9){
+                digits[i] =0;
+                carry = 1;
+             }
+            
+             
+             else
+             {
+            
+             if(carry ==1){
+                digits[i] += carry;
+                carry = 0;
+                return digits;
+             }
+             else
+             {
+               digits[i] += 1; 
+               return digits;       
+             }
+             }
+        }
+
+        if(carry==1){
+            int[] arr = new int[digits.length+1];
+            arr[0] = 1;
+            return arr;
+        }
+        return digits;
+        
+    }
+}
