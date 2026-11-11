@@ -14,7 +14,7 @@ class Solution {
             
              if(carry ==1){
                 digits[i] += carry;
-                carry = 0;
+                
                 return digits;
              }
              else
