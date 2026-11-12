@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Simulation
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
