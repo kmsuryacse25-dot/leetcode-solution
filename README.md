@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
