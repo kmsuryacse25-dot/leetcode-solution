@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
