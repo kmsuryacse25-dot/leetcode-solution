@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
