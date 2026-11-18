@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3895-count-digit-appearances) |
