@@ -3,12 +3,12 @@ class Solution {
        int temp =n;
 
        int rev=0;
-       int a=0;
+      
 
        while(temp !=0){
-        a=temp%10;
+        
 
-        rev = (rev*10)+a;
+        rev = (rev*10)+temp%10;
         temp = temp/10;
        }
 
