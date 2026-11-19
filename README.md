@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
+| [2169-count-operations-to-obtain-zero](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3925-concatenate-array-with-reverse](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
