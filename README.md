@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -111,4 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
