@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3945-digit-frequency-score](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
