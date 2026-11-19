@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3895-count-digit-appearances) |
