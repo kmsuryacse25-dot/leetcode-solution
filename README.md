@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
+| [2651-calculate-delayed-arrival-time](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
