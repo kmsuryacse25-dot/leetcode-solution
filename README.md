@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
