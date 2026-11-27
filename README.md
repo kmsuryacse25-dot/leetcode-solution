@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/kmsuryacse25-dot/leetcode-solution/tree/master/3895-count-digit-appearances) |
